@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a39ce4ce.css",
+    "main.js": "/static/js/main.78bb4bc7.js",
+    "static/media/portfolio.png": "/static/media/portfolio.63948a8770238fc6562f.png",
+    "static/media/testmo1.png": "/static/media/testmo1.5c8c7a4bd3301df09653.png",
+    "static/media/nik-r.png": "/static/media/nik-r.b062f27b4753564ef4c0.png",
+    "static/media/sorting.png": "/static/media/sorting.ea32396dca65b6089dfb.png",
+    "static/media/testim2.png": "/static/media/testim2.33d7c25abf5b6d9fbf06.png",
+    "static/media/expense.png": "/static/media/expense.612b61677d600657639d.png",
+    "static/media/NrAce.png": "/static/media/NrAce.16a9ca4b5fdc3ca5f1d1.png",
+    "static/media/Nikhil_BIET_24.pdf": "/static/media/Nikhil_BIET_24.359638cd1ad025a0eccf.pdf",
+    "static/media/blu.png": "/static/media/blu.bf67412b23e019d774fc.png",
+    "static/media/testim3.png": "/static/media/testim3.4d781614ba23a90d9077.png",
+    "static/media/chatapp.png": "/static/media/chatapp.26d26a210ca9d95b81f6.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/questio.png": "/static/media/questio.0b6fa7afa20013a40dfb.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.a39ce4ce.css.map": "/static/css/main.a39ce4ce.css.map",
+    "main.78bb4bc7.js.map": "/static/js/main.78bb4bc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a39ce4ce.css",
+    "static/js/main.78bb4bc7.js"
+  ]
+}
